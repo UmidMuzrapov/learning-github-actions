@@ -33,5 +33,5 @@ jobs:
     steps:
       - name: step one
         uses: actions/checkout@v2
-      - names: step two
+      - name: step two
         run: echo all four jobs are run
